@@ -75,6 +75,7 @@ It seems to only occur in Python functions. Not reproducible on JS functions
    - `PRINT_STATEMENT - SHOULD ONLY APPEAR ONCE!!!` is printed once
 
 ```
+i  functions: Beginning execution of "us-central1-jsTest"
 >  PRINT_STATEMENT - SHOULD ONLY APPEAR ONCE!!!
-i  functions: Finished "us-central1-jsTest" in 3.310416ms
+i  functions: Finished "us-central1-jsTest" in 3.119584ms
 ```
